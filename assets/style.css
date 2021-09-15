@@ -1,0 +1,78 @@
+header{
+
+/* position:center; */
+width:100%;
+background-color: rgb(148, 236, 148);
+
+}
+
+footer{
+
+    /* position:center; */
+    width:100%;
+    background-color: rgb(116, 230, 116);
+    text-align: center;
+    
+}
+
+h1,h3{
+
+    text-align: center;
+
+}
+
+
+img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border: solid indigo 10px;
+
+}
+
+
+section {
+    height: 100px;
+    width: 30%;
+    left:50%;
+    margin: 20px auto;
+    border: 20px solid darkslategrey;
+  }
+
+.display-block{
+
+    /*position:relative;*/
+    /*left:50%;*/
+
+
+    display:block;
+
+}
+
+#button{
+
+
+
+}
+
+#contact{
+
+    display:block;
+
+    text-align: center;
+
+}
+
+#name{
+
+    text-align: center;
+
+}
+
+#email{
+
+    text-align: center;
+
+}
